@@ -1,0 +1,7 @@
+Invoice
+Customer: Anne T Karp
+Contact Details
+Call:082  4259 543
+Email: anne@glacia.com
+Address: 1094 Grove Street Cape Town 7103
+Amount Due: R8695000
